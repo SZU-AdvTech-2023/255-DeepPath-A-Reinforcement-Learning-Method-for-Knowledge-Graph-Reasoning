@@ -1,0 +1,7 @@
+@inproceedings{REPO255,
+    author = "Xiong, Wenhan and Hoang, Thi-Lan-Giao and Wang, William Yang",
+    booktitle = "Conference on Empirical Methods in Natural Language Processing",
+    title = "{DeepPath: A Reinforcement Learning Method for Knowledge Graph Reasoning}",
+    url = "https://api.semanticscholar.org/CorpusID:20667722",
+    year = "2017"
+}
